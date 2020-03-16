@@ -1,0 +1,6 @@
+framework module SZKit {
+  umbrella header "SZKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

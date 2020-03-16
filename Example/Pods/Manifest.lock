@@ -1,0 +1,16 @@
+PODS:
+  - SZKit (0.1.0)
+
+DEPENDENCIES:
+  - SZKit (from `../`)
+
+EXTERNAL SOURCES:
+  SZKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SZKit: 207fd2def2a59ae99498e7dce042cc2806d823f8
+
+PODFILE CHECKSUM: 29bcd0d6d8a5cdf5bfd5167d8defffaa2d92a4d2
+
+COCOAPODS: 1.8.4
